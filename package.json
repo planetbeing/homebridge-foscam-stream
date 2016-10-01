@@ -1,6 +1,6 @@
 {
   "name": "homebridge-foscam-stream",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Library to support streaming for Foscam cameras under Homebridge.",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/planetbeing/homebridge-foscam-stream#readme",
   "dependencies": {
-    "foscam-binary-client": "^0.2.0",
+    "foscam-binary-client": "^0.2.1",
     "foscam-client": "^0.3.0",
     "ip": "^1.1.3",
     "node-opus": "^0.2.1",
