@@ -1,6 +1,6 @@
 {
   "name": "homebridge-foscam-stream",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Library to support streaming for Foscam cameras under Homebridge.",
   "main": "index.js",
   "scripts": {
@@ -32,6 +32,6 @@
   "engines": {
     "node": ">=6.6.0",
     "homebridge": ">=0.4.3",
-    "hap-nodejs": ">=0.4.8"
+    "hap-nodejs": ">=0.4.11"
   }
 }
